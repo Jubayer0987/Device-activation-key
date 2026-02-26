@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c9652ee7e5a7f8d",
+        "key": "Jubayer",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false
     }
 ]
